@@ -1,8 +1,0 @@
-#url(r'^$', viewsForms.hello, name='hello'), # ein/ausschalten um viewsForms zu testen
-
-# EXKURS ein simples Formular erstellen
-- views.py - viewsForms.poy
-- models.py - Klasse für Forms kann hier mit rein
-- meldungen.html - bleibt erstmal gleich lege nur eine kopie an
-- new_seite/urls.py - pfad für browser 127.0.0.1:8000/meldungen kommt erstmal raus, wegen der pfade
-- new_seite/templates... noch hinzufügen

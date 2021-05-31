@@ -1,4 +1,0 @@
-DB unter - https://phpmyadmin.manitu.de/pma/db_structure.php?server=1&db=db66665
-views können u.a. einfachen text, html, binärdaten, bilder, pdf zurückgeben
-['Content-Type'] - https://www.sistrix.de/frag-sistrix/content-type/#text
-
